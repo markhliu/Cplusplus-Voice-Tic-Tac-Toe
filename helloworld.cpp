@@ -134,7 +134,7 @@ int tosay(wstring input)
 }
 string recognizeSpeech()
 {
-    auto config = SpeechConfig::FromSubscription("e9ec52754de5449baefe4f7340991743", "eastus");
+    auto config = SpeechConfig::FromSubscription("Your Azure Subscription Key Here", "Your region code here");
     auto recognizer = SpeechRecognizer::FromConfig(config);
 
     cout << "Say something...\n";
