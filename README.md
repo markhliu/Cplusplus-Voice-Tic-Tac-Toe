@@ -12,6 +12,6 @@ We’ll use the Microsoft Azure Cognitive Service for both text to speech and sp
 You should first learn how speech recognition and text to speech work in C++ using Azure based on instructions [here](https://github.com/Azure-Samples/cognitive-services-speech-sdk/).   
 
 ## Play the voice controlled Tic Tac Toe
-To play the voice controlled Tic Tac Toe, put the file helloworld.cpp, along with files CImg.h and CTurtle.hpp (both downloaded from Jesse Walker's repo), and files stdafx.cpp, stdafx.h, and targetver.h (downloaded from https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/cpp/windows/from-microphone/helloworld) in the same folder and compile it.
+To play the voice controlled Tic Tac Toe, put the file helloworld.cpp, along with files CImg.h and CTurtle.hpp (both downloaded from Jesse Walker's repo [here](https://github.com/walkerje/C-Turtle)), and files stdafx.cpp, stdafx.h, and targetver.h (downloaded from https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/cpp/windows/from-microphone/helloworld) in the same folder and compile it.
 
-You can see a video demo [here](https://github.com/Azure-Samples/cognitive-services-speech-sdk/).   
+You can see a video demo [here](https://gattonweb.uky.edu/faculty/lium/cpp/ttths.mp4).   
